@@ -7,6 +7,7 @@ Simple, responsive, and fun to play—perfect for brushing up on DOM manipulatio
 Tic Tac Toe Screenshot
 “X or O? Choose wisely.”
 ![Watch Game](https://github.com/MadhuraFadatare/Tic-Tac-Toe-Game/blob/main/Screenshot%202025-09-01%20223753.png)
+![Watch Demo]()
 
 🚀 Features
 - 🧠 Turn-based logic for two players (X and O)
@@ -16,13 +17,15 @@ Tic Tac Toe Screenshot
 - 🎨 Clean UI with subtle hover effects
 
 🛠️ Tech Stack
+- HTML
+Used to structure the game board, buttons, and display messages.
+- CSS
+Styled the layout with responsive design, hover effects, and visual feedback.
+- JavaScript
+Implemented game logic, player turns, win/draw detection, and DOM manipulation.
 
 
-📂 Folder Structure
-tic-tac-toe/
-├── index.html
-├── style.css
-└── script.js
+
 
 
 🧩 How to Play
