@@ -7,7 +7,7 @@ Simple, responsive, and fun to play—perfect for brushing up on DOM manipulatio
 Tic Tac Toe Screenshot
 “X or O? Choose wisely.”
 ![Watch Game](https://github.com/MadhuraFadatare/Tic-Tac-Toe-Game/blob/main/Screenshot%202025-09-01%20223753.png)
-![Watch Demo]()
+![Watch Demo](https://github.com/MadhuraFadatare/Tic-Tac-Toe-Game/blob/ceb736ed94f671463302c7c646bc1db072683500/Screen%20Recording%202025-09-01%20223642.mp4)
 
 🚀 Features
 - 🧠 Turn-based logic for two players (X and O)
